@@ -1,0 +1,16 @@
+.item{
+    background-color: rgb(237,109,82);
+    color: white;
+    padding:30px 40px;
+    margin:3px 10px;
+    //font-size:20px;
+    //font-weight: bold;
+    font: {
+        size: 20px;
+        family: sans-serif;
+        weight:bold;
+      }
+}
+.row{
+    display: flex;  
+}
